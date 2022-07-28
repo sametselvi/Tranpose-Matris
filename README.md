@@ -4,6 +4,10 @@ This program can transpose the elements of the matrix.
 
 For example,
 
+
+
+
+
 list[2][3]={{1,2,3},
 
            {4,5,6},
